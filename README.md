@@ -62,7 +62,7 @@ VALUES (
     'J.R.R. Tolkien',
     NULL,
     '9780547928227',
-    'https://example.com/hobbit.jpg'
+    'https://cdng.europosters.eu/pod_public/1300/116136.jpg'
 );
 
 INSERT INTO `books` (`id`, `book_name`, `author`, `access_id`, `isbn`, `book_image_url`) VALUES
