@@ -36,7 +36,7 @@ CREATE TABLE books (
     id INT AUTO_INCREMENT PRIMARY KEY,
     book_name VARCHAR(255) NOT NULL,
     author VARCHAR(255) NOT NULL,
-    access_id INT,
+    access_id TEXT,
     isbn VARCHAR(20),
     book_image_url TEXT
 );
