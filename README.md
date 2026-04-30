@@ -72,7 +72,7 @@ INSERT INTO `books` (`id`, `book_name`, `author`, `access_id`, `isbn`, `book_ima
 (5, 'Introduction to Algorithms (3rd Edition)', 'Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein', NULL, '9780262033848', 'https://m.media-amazon.com/images/I/81ZnMSwkQwL._UF1000,1000_QL80_.jpg');
 ```
 
-If you know how to use phpMyAdmin, you can use the provided "books_db.sql" file and import this entire database directly.
+If you know how to use phpMyAdmin, you can use the provided "bookly_db.sql" file and import this entire database directly.
 
 ## Development Team
 
